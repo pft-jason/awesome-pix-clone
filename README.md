@@ -1,1 +1,1 @@
-# awesome-pix-clone
+# awesome-pix-frontend
